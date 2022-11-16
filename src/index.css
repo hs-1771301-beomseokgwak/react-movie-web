@@ -65,6 +65,12 @@ body {
     flex-direction: column;
 }
 
+.gr {
+    display: Grid;
+    grid-template-columns: 180px 180px 180px 180px 180px 180px;
+    grid-row-gap: 50px;
+}
+
 .fcenter {
     justify-content: center;
 }
